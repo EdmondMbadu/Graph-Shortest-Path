@@ -2,6 +2,7 @@
 This program provides a visual representation for the shortest path problem given a set of connected nodes and a start and end node. The nodes are unweighted. 
 The code is written in Java with extra libraries from processing.  
 To find more about processing see here: https://processing.org/ There is room for elegant customization. For the moment, key combinations will do all the work.  The key combinations are: 
+
 A. Generate nodes ( or vertices)
 -The key 'a' or 'A' will generate the circles ( which are vertices). To generate the node, place the mouse in the desired position, and click a or A
 B. Connect Two nodes. 
